@@ -81,8 +81,8 @@ def PrintingCosts(Line):
         
             
     return k            
-Line = 'qwerty'
-print(PrintingCosts(Line))
+
+
 
 
 
